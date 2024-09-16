@@ -2,6 +2,9 @@
 
 ![Plot](plot.png "Plot")
 
+Nach Religion:
+![Plot Religion](plot_religion.png "Plot Religion")
+
 ```
 Insgesamt gab es von 2000-2023 3_055_655 Einbürgerungen.
 Länder nach Gesamtzahl der Einbürgerungen 2000-2023:
