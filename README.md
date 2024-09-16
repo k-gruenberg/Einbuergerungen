@@ -2,7 +2,7 @@
 
 ![Plot](plot.png "Plot")
 
-Nach Religion:
+Nach Religion:  
 ![Plot Religion](plot_religion.png "Plot Religion")
 
 ```
