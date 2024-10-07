@@ -8,10 +8,10 @@ Nach Religion:
 Nach Kontinent:  
 ![Plot Kontinent](plot_continent.png "Plot Kontinent")
 
-Karte (groß):
+Karte (groß):  
 ![Karte (groß)](Einbuergerungen.png "Karte (groß)")
 
-Karte (klein):
+Karte (klein):  
 ![Karte (klein)](Einbuergerungen_ab_50k.png "Karte (klein)")
 
 ```
