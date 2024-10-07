@@ -8,8 +8,11 @@ Nach Religion:
 Nach Kontinent:  
 ![Plot Kontinent](plot_continent.png "Plot Kontinent")
 
-Karte:
-![Karte](Einbuergerungen.png "Karte")
+Karte (groß):
+![Karte (groß)](Einbuergerungen.png "Karte (groß)")
+
+Karte (klein):
+![Karte (klein)](Einbuergerungen_ab_50k.png "Karte (klein)")
 
 ```
 Insgesamt gab es von 2000-2023 3_055_655 Einbürgerungen.
